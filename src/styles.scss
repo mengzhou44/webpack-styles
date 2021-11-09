@@ -1,0 +1,13 @@
+$light-text: moccasin;
+
+body {
+  background-color: lightcyan;
+  color: $light-text;
+}
+
+.container {
+  h1 {
+    font-size: 60px;
+    text-align: center;
+  }
+}
